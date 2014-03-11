@@ -244,6 +244,7 @@ Places
 Symbols
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
+|---|---|---|
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
 | :keycap_ten: `:keycap_ten:` | :1234: `:1234:` | :zero: `:zero:` |
